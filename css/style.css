@@ -1,0 +1,20 @@
+:root {
+    --black: #333;
+    --white: #fff;
+    -secondary: #ccc;
+    --accent: #557aff;
+
+    --font-main: 'Jost', sans-serif;
+    --transition: all .3s ease-in-out;
+}
+
+
+body {
+    font-family: var(--font-main);
+}
+
+.container {
+    max-width: 1230px;
+    margin: 0 auto;
+    padding: 0px 15px;
+}
